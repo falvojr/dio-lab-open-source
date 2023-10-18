@@ -49,10 +49,6 @@
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
 | `test`         | Adiciona ou modifica testes no projeto.        |
 
-## Desafios Git e GitHub
-- [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
-
-
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
 - [CONVENTIONAL COMMITS. Summary](https://www.conventionalcommits.org/en/v1.0.0/)
