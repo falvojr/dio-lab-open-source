@@ -11,3 +11,7 @@ Sou entusiasta de tecnologia e estou mergulhando no desenvolvimento de software,
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)]https://www.instagram.com/lucas_azai/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-azai&show_icons=true&theme=transparent)
+
+
+
+
