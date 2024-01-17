@@ -1,7 +1,8 @@
-# Contribuindo no lab DIO
+Olá e bem-vindo
+Aqui você encontrará algumas coisas que gosto ou com as quais tive contato.
 
-Está contruição dio-lab-código/open-souce/comunidade
+tecnologias - cursos, projetos pessoais:
+Docker, Linux, Git, GitHub, HTML5, CSS3, JavaScript, React, Azure e NodeJS
 
-## 🚀 Começando
 
-........
+
