@@ -5,9 +5,6 @@
 - Github
 - Git
 
-
-# Editor.md
-
 ![](../docs/IMG/me.jpg)
 
 
