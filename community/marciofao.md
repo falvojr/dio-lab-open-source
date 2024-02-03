@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marciofao
+- 👀 I’m interested in Cloud based Systems Development and Artificial Intelligence
+- 🌱 I’m currently learning Microsystems Dev Ops
+- 💞️ I’m looking to collaborate on Rest API and Wordpress development
+- 📫 How to reach me/portifolio: https://marciofao.github.io
