@@ -20,3 +20,4 @@ Eu sou a Kathleen graduanda do curso de Sistemas de Informação, atualmente con
 ## Minhas Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=avieiras&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/KathleenFerreira18/dio-lab-open-source)
+sjlvbsvj
