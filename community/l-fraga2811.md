@@ -15,16 +15,34 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 # 📊 Estatísicas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=l-fraga2811&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=l-fraga2811&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[comment]: <> (Git Stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=l-fraga2811&theme=transparent"/>
+</a>
+
+[comment]: <> (Most Used Langs)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-fraga2811&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
+</a>
 
 ## Principais Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
+[comment]: <> (Repositorio)
 
+<a href="https://github.com/l-fraga2811/dio-lab-open-source">
+    <img height = 200 align= "center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-fraga2811&repo=dio-lab-open-source&)](https://github.com/l-fraga2811/dio-lab-open-source&theme=transparent"/>
+</a>
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1asm1n&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/l-fraga2811/dio-lab-open-source)
+
+[comment]: <> (Repositorio)
+
+<a href="https://github.com/l-fraga2811/dio-lab-open-source">
+    <img height = 200 align= "center" src="https://github-readme-stats.vercel.app/api/pin/?username=l-fraga2811&repo=dio-lab-open-source&)](https://github.com/l-fraga2811/dio-lab-open-source&theme=transparent"/>
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=l-fraga2811&icon=0&color=0)](https://visitcount.itsvg.in)
