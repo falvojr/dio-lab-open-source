@@ -1,19 +1,18 @@
-# Olá! eu sou o Alan 👋🏻
+# Olá! eu sou o Pedro 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-### Meu nome é Alan sou de Guarulhos - SP, sou desenvolvedor FullStack Jr, estou ingressando na área de tecnologia.
-### Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Guarulhos.
+### Meu nome é Pedro. Sou de Duque de Caxias - RJ e estou me graduando em Engenharia da Computação pela Universidade Veiga de Almeida.
+### Me interesso pelas áreas de Dados, Cibersegurança e Backend
 
 
 ## Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alanmachado-dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/machado.ft/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-h-a-sena/) 
 
 ## Linguagens
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 
 ## Ferramentas
@@ -25,7 +24,7 @@
 
 ## GitHub Stats
 
-![Alan Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=1amAlan&theme=tokyonight&_icons=true&hide_title=true)
+![Pedro Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ry00sh1&theme=dark&show_icons=true)
 
 
 
