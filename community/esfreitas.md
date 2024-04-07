@@ -1,6 +1,6 @@
 <div align="center">
-    <h1> 👽 Oi eu não Sou o Goku, Me chamo Elton ♒ </h1>
-    <p>🧑‍🚀 Tenho aprendido muito sobre tecnologia e atualmente trabalho como DEV Java e tenho também uma experiencia anterior com desenvolvimento de contatos inteligentes (chatbots), estou cursando disciplinas isoladas do Mestrado em Modelagem Matematica Computacional do CEFET-MG, e tenho aproveitado os cursos da DIO para me aperfeiçoar e adquirir novos conhecimentos que sejam do meu interesse. 🚀</p>
+    <h1>Oi me chamo Elton ♒ </h1>
+    <p>Tenho aprendido muito sobre tecnologia e atualmente trabalho como DEV Java e tenho também uma experiencia anterior com desenvolvimento de contatos inteligentes (chatbots), estou cursando disciplinas isoladas do Mestrado em Modelagem Matematica Computacional do CEFET-MG, e tenho aproveitado os cursos da DIO para me aperfeiçoar e adquirir novos conhecimentos que sejam do meu interesse. </p>
 </div>
 
 
