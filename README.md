@@ -1,4 +1,4 @@
-# GABRIEL LEAL 👨🏾‍🚀 (gabslealdev)
+# GABRIEL LEAL 👨🏾‍🚀 <sup>(gabslealdev)<sup>
 
 ## STACKS 👨🏾‍💻
 ![Static Badge](https://img.shields.io/badge/SQLSERVER-blue)  ![Static Badge](https://img.shields.io/badge/DOTNET-CORE-purple)  ![Static Badge](https://img.shields.io/badge/HTML5-yellow)
