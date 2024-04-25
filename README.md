@@ -10,6 +10,5 @@
 ### FORMAÇÃO ACADEMICA 📚
 Análise e Desenvolvimento de Sistemas - Faculdade Impacta 
 
-### Livros e Cursos 
 
 
