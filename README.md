@@ -1,7 +1,7 @@
 # GABRIEL LEAL 👨🏾‍🚀 (gabslealdev)
 
 ## STACKS 👨🏾‍💻
-![Static Badge](https://img.shields.io/badge/SQLSERVER-blue)  ![Static Badge](https://img.shields.io/badge/C#-?logo=csharp)  ![Static Badge](https://img.shields.io/badge/HTML=?logo=html5)
+![Static Badge](https://img.shields.io/badge/SQLSERVER-blue)  ![Static Badge](https://img.shields.io/badge/C#-purple?logo=csharp)  ![Static Badge](https://img.shields.io/badge/HTML=?logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS?logo=css3) ![Static Badge](https://img.shields.io/badge/JavaScript?logo=javascript) ![Static Badge](https://img.shields.io/badge/Python?logo=python)
 
 ## PROJETOS 💻
