@@ -16,7 +16,7 @@
     <img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 <br><br>
-<div style="display:flex;">
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jermesonf&theme=dracula" />
 </a>
