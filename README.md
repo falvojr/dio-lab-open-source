@@ -4,7 +4,7 @@
     <span> Contribuindo em um Projeto Open Source no GitHub</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
+Este repositório foi desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/).
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
@@ -79,7 +79,7 @@ Aprender o básico sobre contribuição no GitHub.
     > Utilize o comando `git pull upstream main` para baixar e mesclar as alterações no seu repositório local com base na branch `main` deste repositório original de onde você fez o fork, ou `git fetch upstream main` para baixar sem mesclar. Veja mais em: [Primeiros Passos com Git e GitHub](https://github.com/digitalinnovationone/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md).
 4. Crie/Referêncie uma nova **branch** e nomeie como `feat/community/SEU_USERNAME`: `git checkout -b feat/community/SEU_USERNAME`;
     > Exemplo: `git checkout -b feat/community/elidianaandrade`
-5. Dentro da pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+5. Dentro da pasta podemos fazer o seguinte [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `elidianaandrade.md` <br>
 6. Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e adicionar alguns dos utilitários presentes na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils);
     > **Observação:** Use os outros exemplos como inspiração e não cópia.
