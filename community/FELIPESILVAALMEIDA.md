@@ -14,9 +14,9 @@
 
 
 ## CURSANDO 
-Análise e Desenvolvimento de Sistemas 3 periodo
+AnÃ¡lise e Desenvolvimento de Sistemas 3 periodo
 
-## Minhas contribuições
+## Minhas contribuiÃ§Å‘es
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FELIPESILVAALMEIDa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FelipeSilvaAlmeida/dio-lab-open-source.git)
 
