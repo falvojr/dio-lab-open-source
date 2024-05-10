@@ -1,7 +1,7 @@
 # Olá! eu sou o Deyvison Alcantara 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-### Meu nome é Deyvison sou de Pauista - PE, Micro-Empreendedor, estou ingressando na área de tecnologia.
+### Meu nome é Deyvison sou de Paulista - PE, Microempreendedor, estou ingressando na área de técnologia.
 ### Atualmente cursando Técnico em  Desenvolvimento de Sistemas.
 
 
@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 
-## Linhuagens de Marcação e Estilo
+## Linguagens de Marcação e Estilo
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)&nbsp; 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
