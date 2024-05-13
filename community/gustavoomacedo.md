@@ -37,5 +37,5 @@ Professional highly motivated, curious about new technologies, with strong techn
 ## GitHub Stats 📊
 ![gustavoomacedo's Stats](https://github-readme-stats.vercel.app/api?username=gustavoomacedo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## Minhas Contribuições 📉
+## Total Contributions 📉
 ![gustavoomacedo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavoomacedo&theme=vue-dark&hide_border=true)
