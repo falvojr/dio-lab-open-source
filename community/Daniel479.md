@@ -8,15 +8,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
 </div>
 
+
+
 <p1 align="center">
   Estou atualmente cursando Ciência da Computação, e estou sempre em busca de aprimoramento na área. Além da graduação, faço cursos adicionais para enriquecer meu currículo profissional e expandir meus conhecimentos. Meu objetivo é desenvolver habilidades diversificadas e atualizadas que contribuam para meu crescimento na carreira de tecnologia.
 </p1>
 
-<div align="center">
-  <a href="https://github.com/Daniel479">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel479&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel479&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+
 
 
