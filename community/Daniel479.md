@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+ </a>
+ <img src= "https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Badge"/>
 </div>
 
 <p>
