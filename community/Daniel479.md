@@ -18,6 +18,3 @@
 <p align="center">
   Estou atualmente cursando Ciência da Computação, e estou sempre em busca de aprimoramento na área. Além da graduação, faço cursos adicionais para enriquecer meu currículo profissional e expandir meus conhecimentos. Meu objetivo é desenvolver habilidades diversificadas e atualizadas que contribuam para meu crescimento na carreira de tecnologia.
 </p>
-
-
-
