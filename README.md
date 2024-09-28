@@ -87,6 +87,16 @@ Aprender o básico sobre contribuição no GitHub.
 8. Crie um commit e adicione a mensagem indicando a adição do seu perfil `git commit -m"feat: add SEU_USERNAME profile"`;
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
+11. ### Desenvolvendo e Enviando uma Contribuição
+
+Aqui estão algumas diretrizes para ajudar você a contribuir:
+
+1. Fork o repositório.
+2. Clone o repositório localmente.
+3. Crie uma nova branch:
+   ```bash
+   git checkout -b nova-funcionalidade
+
 
 ### Instructions (EN/US)
 1. **Fork** this repository;
