@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profile README - Hanna Silva</span>
+    <span> Profile README - Hanna👽 </span>
 </h1>
 
 Olá! Eu sou a Hanna, tenho 22 anos e estudo sistemas da informação. 
