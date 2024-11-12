@@ -1,4 +1,4 @@
-# Lucas Rodrigues Gomes
+# Lucas Rodrigues Gomes.
 
 
 - 🔭 I’m currently working on: Projetos pessoais para portfólio (personal projects)
