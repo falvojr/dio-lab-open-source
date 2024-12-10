@@ -21,17 +21,22 @@ Estou comprometido em expandir meus conhecimentos em processamento de dados, fer
 
 ## Aprendendo/Learning
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />](https://www.python.org/)[**Python**](https://www.python.org/doc/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="20" width="20"/>](https://www.python.org/)[**Python**](https://www.python.org/doc/)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/pt/free/?gclid=CjwKCAiA6t-6BhA3EiwAltRFGG3qTzg0rWP-IGNzjNuJmywThaIVQaOXoppa1uoPTr9rFd1ng9aMERoCmtYQAvD_BwE&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=CjwKCAiA6t-6BhA3EiwAltRFGG3qTzg0rWP-IGNzjNuJmywThaIVQaOXoppa1uoPTr9rFd1ng9aMERoCmtYQAvD_BwE:G:s&s_kwcid=AL!4422!3!696214219377!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) [**AWS**](https://docs.aws.amazon.com/?nc2=h_ql_doc_do)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" width="20" />](https://aws.amazon.com/pt/free/?gclid=CjwKCAiA6t-6BhA3EiwAltRFGG3qTzg0rWP-IGNzjNuJmywThaIVQaOXoppa1uoPTr9rFd1ng9aMERoCmtYQAvD_BwE&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=CjwKCAiA6t-6BhA3EiwAltRFGG3qTzg0rWP-IGNzjNuJmywThaIVQaOXoppa1uoPTr9rFd1ng9aMERoCmtYQAvD_BwE:G:s&s_kwcid=AL!4422!3!696214219377!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) [**AWS**](https://docs.aws.amazon.com/?nc2=h_ql_doc_do)
           
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)[**SQL**](https://dev.mysql.com/doc/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="20" width="20" />](https://www.mysql.com/)[**SQL**](https://dev.mysql.com/doc/)
 
 #### More
 _______
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=0)](t.me/ederquesado)[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/ederquesado/)[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ederquesadso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ederqueado/) 
+[![Mail](https://img.shields.io/badge/Mail-ederquesado@gmail.com-0A66C2?informational?style=flat&logo=E&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+
+[![Github](https://img.shields.io/badge/Github-black?informational?style=flat&logo=github&logoColor=white)](https://github.com/ederquesado/) 
+<br><br>
+<br><br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=footer"/>
