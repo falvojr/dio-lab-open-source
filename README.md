@@ -120,6 +120,9 @@ Aprender o básico sobre contribuição no GitHub.
 9. Envía los cambios a tu repositorio remoto `git push origin feat/community/TU_USERNAME`;
 10. Crea un **Pull Request**.
 
+### Caso queira adicionar alguns icons ao seu site ou no seu projeto, acesse: [Icons vetoriais](https://icons8.com.br/icons).
+
+Aprenda também sobre o [GIT](https://git-scm.com/).
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
