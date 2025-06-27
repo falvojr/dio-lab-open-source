@@ -1,0 +1,44 @@
+ Simulador de Investimentos em Fundos Imobiliários (FII)
+
+Este projeto foi desenvolvido como parte do desafio da DIO com o objetivo de construir uma ferramenta funcional em **Excel** que simula investimentos em **Fundos Imobiliários (FIIs)**. A planilha permite que o usuário personalize seus aportes mensais, prazo de investimento e taxa de rendimento para visualizar o patrimônio acumulado e os dividendos estimados ao longo do tempo.
+
+ Funcionalidades
+
+- Cálculo automático do patrimônio acumulado e dividendos mensais;
+- Configuração de salário, taxa de rendimento e percentual de investimento;
+- Simulações de retornos com diferentes cenários de dividendos (2, 5, 10, 20, 30 anos);
+- Proposta de carteira de FII com base em perfil do investidor (Conservador, Moderado, Agressivo);
+- Distribuição percentual por tipo de FII: **Papel, Tijolo, Híbrido, ETFs, Desenvolvimento e Hotelarias;
+- Layout organizado e com validações para facilitar a usabilidade.
+
+ Tecnologias
+
+- Microsoft Excel – fórmulas financeiras, validações de dados, formatação condicional e estrutura de tabelas;
+- Organização em múltiplas abas para simulação, configurações e distribuição por perfil.
+
+Aprendizados
+
+Durante o desenvolvimento da planilha, foram aplicados conceitos importantes de modelagem de dados no Excel, como:
+
+- Uso de taxa de juros composta mensal para simular crescimento do patrimônio;
+- Projeção de dividendos com base em valores médios de FIIs;
+- Aplicação de formatação condicional e validação de dados para garantir consistência;
+- Criação de uma estrutura clara e intuitiva para facilitar a tomada de decisão do usuário.
+
+ Arquivos incluídos
+
+- `INvestimentos.xlsx` — planilha de simulação de investimentos;
+- `README.md` — descrição do projeto e funcionalidades;
+- `/images` (opcional) — capturas de tela ilustrativas da planilha em funcionamento.
+
+ Como usar
+
+1. Abra o arquivo `INvestimentos.xlsx` no Excel;
+2. Preencha os campos de salário, percentual de investimento, tempo e taxa de rendimento;
+3. Acompanhe os resultados nas seções de patrimônio e dividendos;
+4. Ajuste seu perfil de investidor e veja a distribuição sugerida por tipo de FII.
+
+---
+
+Fique à vontade para clonar, adaptar e evoluir o projeto conforme seu perfil de investimento!
+
