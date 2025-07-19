@@ -1,0 +1,227 @@
+[33mcommit e309ec4edb52876112e36cea4f544b930a7665c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31mupstream/main[m[33m)[m
+Merge: d5ec4593bc 36b851ce08
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jul 18 00:47:13 2025 +0000
+
+    Merge pull request #65922 from Luanv02/main
+
+[33mcommit 36b851ce081c98ece3f1641166a610a6f4ce76a6[m
+Author: Luan Vinícius <142943317+Luanv02@users.noreply.github.com>
+Date:   Thu Jul 17 21:43:18 2025 -0300
+
+    feat: add Luanv02 profile
+
+[33mcommit d5ec4593bc2ac4c3d8295d71b45ea1346f9da057[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7f001ca641 f1d3a8280f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jul 18 00:36:33 2025 +0000
+
+    Merge pull request #65919 from berticamila/feat/community/berticamila
+
+[33mcommit 7f001ca641db7a6fdac93f8df4630e61f33ed2e2[m
+Merge: eb3a527991 e693d9c675
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Fri Jul 18 00:34:45 2025 +0000
+
+    Merge pull request #65918 from MariaSouza2025/MariaSouza2025-patch-2
+
+[33mcommit e693d9c67545f30a792feb7a4463fd76004c8e07[m
+Author: MariaSouza2025 <mariaejunior271@gmail.com>
+Date:   Thu Jul 17 21:30:10 2025 -0300
+
+    Create MariaSouza2025.md
+
+[33mcommit f1d3a8280f96c84b56c09b8009c3f44889f5f8bd[m
+Author: Camila Berti dos Santos <camilabertidossantos18@gmail.com>
+Date:   Thu Jul 17 21:26:19 2025 -0300
+
+    feat: add berticamila profile
+
+[33mcommit eb3a527991dd4ca8f1d2473af9271aac513484ef[m
+Merge: 60d5556e9a 7d2e0e0dfd
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 23:50:44 2025 +0000
+
+    Merge pull request #65915 from GauM92/feat/community/GauM92
+
+[33mcommit 7d2e0e0dfd6b220d146e983e6ed87441ff475804[m
+Author: Gabriel Machado <112735431+GauM92@users.noreply.github.com>
+Date:   Thu Jul 17 20:49:06 2025 -0300
+
+    feat: add GauM92 profile
+
+[33mcommit 60d5556e9aa38eca19950ce475a27fb8aa16a927[m
+Merge: 59660aeca0 313d7fcc2f
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 23:45:35 2025 +0000
+
+    Merge pull request #65914 from samuellucg/feat/comunity/samuellucg
+
+[33mcommit 59660aeca0094b922f6124c7f70268f6921f3b35[m
+Merge: dc3ed54e02 c26b9846c4
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 23:44:20 2025 +0000
+
+    Merge pull request #65913 from evyvitu/evyvitu
+
+[33mcommit c26b9846c423f0b27ea8cb751e57000c205f9171[m
+Author: Evillyn Viturino <164200279+evyvitu@users.noreply.github.com>
+Date:   Thu Jul 17 20:43:25 2025 -0300
+
+    feat: add evyvitu.md profile
+
+[33mcommit 313d7fcc2f71c832248aff15a06829ed5872b875[m
+Author: Samuel Lucas <samuel.lucasmacedos@gmail.com>
+Date:   Thu Jul 17 20:38:30 2025 -0300
+
+    feat: add samuellucg profile
+
+[33mcommit 6caaf434815d04205eab141e43a1027b323ecbe6[m
+Author: Gabriel Machado <112735431+GauM92@users.noreply.github.com>
+Date:   Thu Jul 17 20:20:17 2025 -0300
+
+    feat: add GauM92 profile
+
+[33mcommit dc3ed54e0205aeba42b6467e9991d08cc22d7795[m
+Merge: 984c6433c5 d3435ab73c
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 23:18:39 2025 +0000
+
+    Merge pull request #65909 from eduardotebas/feat/community/eduardotebas
+
+[33mcommit d3435ab73cae62dafc2ffdf2c583c12497e5b2d8[m
+Author: Eduardo Tebas <eduardohtebas@gmail.com>
+Date:   Thu Jul 17 20:18:13 2025 -0300
+
+    Rename tebas.md to eduardotebas.md
+
+[33mcommit 31be1065af58b57694a82625149167d1cdb08fad[m
+Author: Eduardo Tebas <eduardohtebas@gmail.com>
+Date:   Thu Jul 17 19:58:40 2025 -0300
+
+    Create tebas.md
+
+[33mcommit 984c6433c5dbc70a061d2f8658c0220deec53423[m
+Merge: b28855fd26 2d18472c9d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 22:53:33 2025 +0000
+
+    Merge pull request #65908 from robsonkoji/feat/community/robsonkoji
+
+[33mcommit 2d18472c9d67b9dd22139ad18ca8351784acb694[m
+Author: robsonkoji <robson_koji@hotmail.com>
+Date:   Thu Jul 17 19:34:48 2025 -0300
+
+    feat: add robsonkoji profile
+
+[33mcommit b28855fd260a4a100adcf7967662c22c5ad3970a[m
+Merge: 33a9bb45ce 45f4e3b5bb
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 22:25:33 2025 +0000
+
+    Merge pull request #65902 from WilliamBrazao/feat/communit/WilliamWagnerBrazão
+
+[33mcommit 33a9bb45ceea81dc976c2285325b21560fd5789d[m
+Merge: 1385f01a04 44a6776651
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 22:25:18 2025 +0000
+
+    Merge pull request #65901 from Maria-Eduarda-2005/patch-1
+
+[33mcommit 45f4e3b5bbb8b7687233e9ba1eae61dae9cd5559[m
+Author: William Wagner Brazão <willianbrazao16@gmail.com>
+Date:   Thu Jul 17 19:23:50 2025 -0300
+
+    Add files via upload
+
+[33mcommit 44a677665127f68cdf8a03641a0600fe94e2f895[m
+Author: Maria-Eduarda-2005 <166725866+Maria-Eduarda-2005@users.noreply.github.com>
+Date:   Thu Jul 17 19:23:46 2025 -0300
+
+    Update Maria-Eduarda-2005.md
+
+[33mcommit 1385f01a04442191dc70f6b3a86c19a0ae26bbec[m
+Merge: 245d7f39f0 2ca07fc151
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 22:19:19 2025 +0000
+
+    Merge pull request #65900 from louiseneves/feat/community/louiseneves
+
+[33mcommit 2ca07fc1513b26be99e68a859bfd7d9ce66396d5[m
+Author: Louise <louiseneves87@gmail.com>
+Date:   Thu Jul 17 19:10:26 2025 -0300
+
+    feat: add louiseneves profile
+
+[33mcommit 245d7f39f05d3b83c87bff529f78a8861611c65f[m
+Merge: 594d453f0b aff4a2d169
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 21:58:58 2025 +0000
+
+    Merge pull request #65897 from leticiabrondi/feat/community/leticiabrondi
+
+[33mcommit 594d453f0b73dc01a37c9cd653744a930c46ad6b[m
+Merge: 57a18bc8fe 89c182685b
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 21:58:39 2025 +0000
+
+    Merge pull request #65895 from ribeirobrunodev/feat/community/falvojr
+
+[33mcommit 89c182685b67c5d43b62146cc9ef44a96aeb683f[m
+Author: Bruno Ribeiro <ribeirobrunodev@gmail.com>
+Date:   Thu Jul 17 18:58:13 2025 -0300
+
+    Rename brunoribeirodev.md to ribeirobrunodev.md
+
+[33mcommit aff4a2d1694dbd7927a2feb67973d07ceeef0370[m
+Author: Letícia Brondi <leebrondi@gmail.com>
+Date:   Thu Jul 17 18:56:55 2025 -0300
+
+    feat: add leticiabrondi profile
+
+[33mcommit 57a18bc8fedd4f90381581a76f615c4d6de3ca4f[m
+Merge: ec86309d82 1a9951a701
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 21:50:04 2025 +0000
+
+    Merge pull request #65896 from Maria-Eduarda-2005/feat/community/Maria-Eduarda-2005
+
+[33mcommit 1a9951a70168220c8db8c3d11a49c9f5adbb6127[m
+Author: maria <mariabarcellos2005@gmail.com>
+Date:   Thu Jul 17 18:38:50 2025 -0300
+
+    feat: add Maria-Eduarda-2005 profile
+
+[33mcommit 9e3488fbb373ccb957a9e8ee0e640a15a920f404[m
+Author: Bruno Ribeiro <ribeirobrunodev@gmail.com>
+Date:   Thu Jul 17 18:29:30 2025 -0300
+
+    Create brunoribeirodev.md
+
+[33mcommit 9430fc5407e14de289be36e718a46b275912fdb5[m
+Author: robsonkoji <robson_koji@hotmail.com>
+Date:   Thu Jul 17 18:28:10 2025 -0300
+
+    feat: add robsonkoji profile
+
+[33mcommit ec86309d8208d65a3e4388126b946b3d831b58d8[m
+Merge: 183b1bfb3a 950b0c958d
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 21:20:24 2025 +0000
+
+    Merge pull request #65893 from Zarconiel/patch-1
+
+[33mcommit 950b0c958d32742499e19b9453e7e3ed8f9930f3[m
+Author: Carlos Daniel <168373952+Zarconiel@users.noreply.github.com>
+Date:   Thu Jul 17 18:19:44 2025 -0300
+
+    Descriação Update Zarconiel.md
+    
+    Descrição atualizada
+
+[33mcommit 183b1bfb3a0dccb42771fbcad713b6bc2c882f89[m
+Merge: 5729be5e86 bd0b334de9
+Author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+Date:   Thu Jul 17 21:00:03 2025 +0000
+
+    Merge pull request #65889 from Ronaldo1986/fe
